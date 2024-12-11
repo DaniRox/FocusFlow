@@ -1,0 +1,25 @@
+.todoSearch__input {
+    width: 100%;
+    max-width: 30rem;
+    background-color: #404040;
+    color: #a64aff;
+    font-family: "Urbanist", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    border: none;
+    padding: 0.6rem 1rem;
+    margin: 1.4rem;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+}
+
+.todoSearch__input::placeholder {
+    font-family: "Urbanist", sans-serif;
+    color: #00829b;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.todoSearch__input:focus-visible {
+    outline: solid 0.1rem #a64aff;
+}

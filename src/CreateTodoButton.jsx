@@ -1,6 +1,13 @@
+import "./CreateTodoButton.css";
+import btnImage from "./assets/FaPlus.svg";
+
 function CreateTodoButton(){
     return (
-        <button>+</button>
+        <button
+            className="createTodoButton__btn"
+            onClick={(event) => event.target}>
+                <img src={btnImage} alt="" className="createTodoButton__btnImage" />
+        </button>
     )
 }
 

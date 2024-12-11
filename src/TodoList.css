@@ -1,0 +1,16 @@
+.todoList {
+    width: 100%;
+    gap: 1.4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 1024px) {
+    .todoList {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 1.6rem;
+    }
+}
