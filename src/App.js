@@ -11,7 +11,7 @@ import "./App.css";
 const defaultTodos = [
     { text: "Cortar cebolla", completed: true },
     { text: "Tomar el curso de ReactJs", completed: false },
-    { text: "Llorar con la llorona", completed: false },
+    { text: "Terminar proyecto", completed: false },
     { text: "Hacer las compras", completed: false },
 ]
 
