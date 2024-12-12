@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FocusFlow/static/css/main.be84358e.css",
+    "main.js": "/FocusFlow/static/js/main.9adbe169.js",
+    "index.html": "/FocusFlow/index.html",
+    "static/media/FaClose.svg": "/FocusFlow/static/media/FaClose.a6a9c6f9503a7acf5d5712bef7e86f51.svg",
+    "static/media/FaPlus.svg": "/FocusFlow/static/media/FaPlus.a1d114843371aa4d7543035beb6ed16f.svg",
+    "static/media/FaCheck.svg": "/FocusFlow/static/media/FaCheck.b49b0ca4655077830531.svg",
+    "main.be84358e.css.map": "/FocusFlow/static/css/main.be84358e.css.map",
+    "main.9adbe169.js.map": "/FocusFlow/static/js/main.9adbe169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be84358e.css",
+    "static/js/main.9adbe169.js"
+  ]
+}
